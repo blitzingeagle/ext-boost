@@ -14,4 +14,6 @@ bcp ^
     boost/system/error_code.hpp ^
     boost/system/system_error.hpp ^
     boost/variant/ ^
+    boost/archive/binary_iarchive.hpp ^
+    boost/archive/binary_oarchive.hpp ^
     --boost="%1" .
