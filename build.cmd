@@ -16,4 +16,11 @@ bcp ^
     boost/variant/ ^
     boost/archive/binary_iarchive.hpp ^
     boost/archive/binary_oarchive.hpp ^
+    boost/serialization/array.hpp ^
+    boost/serialization/vector.hpp ^
+    boost/serialization/set.hpp ^
+    boost/serialization/map.hpp ^
+    boost/serialization/unordered_set.hpp ^
+    boost/serialization/shared_ptr.hpp ^
+    boost/serialization/unique_ptr.hpp ^
     --boost="%1" .
