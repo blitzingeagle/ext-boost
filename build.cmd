@@ -19,6 +19,7 @@ bcp ^
     boost/serialization/array.hpp ^
     boost/serialization/bitset.hpp ^
     boost/serialization/binary_object.hpp ^
+    boost/serialization/deque.hpp ^
     boost/serialization/export.hpp ^
     boost/serialization/vector.hpp ^
     boost/serialization/set.hpp ^
