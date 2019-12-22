@@ -27,4 +27,5 @@ bcp ^
     boost/serialization/unordered_map.hpp ^
     boost/serialization/unordered_set.hpp ^
     boost/serialization/shared_ptr.hpp ^
+    boost/serialization/unique_ptr.hpp ^
     --boost="%1" .
