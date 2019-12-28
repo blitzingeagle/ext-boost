@@ -24,6 +24,7 @@ bcp ^
     boost/serialization/vector.hpp ^
     boost/serialization/set.hpp ^
     boost/serialization/map.hpp ^
+    boost/serialization/optional.hpp ^
     boost/serialization/unordered_map.hpp ^
     boost/serialization/unordered_set.hpp ^
     boost/serialization/shared_ptr.hpp ^
