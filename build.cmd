@@ -21,6 +21,7 @@ bcp ^
     boost/serialization/binary_object.hpp ^
     boost/serialization/deque.hpp ^
     boost/serialization/export.hpp ^
+    boost/serialization/list.hpp ^
     boost/serialization/vector.hpp ^
     boost/serialization/set.hpp ^
     boost/serialization/map.hpp ^
