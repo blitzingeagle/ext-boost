@@ -11,7 +11,7 @@ To update the Boost version (or to add a new library) follow these steps:
   - Download Boost and extract the package, then launch Powershell and `cd` to the `boost_1_xx_0` directory.
   - Build the `bcp` tool:
     ```
-    .\boostrap.bat
+    .\bootstrap.bat
     .\b2 tools\bcp
     ```
 
