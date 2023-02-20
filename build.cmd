@@ -32,4 +32,5 @@ bcp ^
     boost/serialization/shared_ptr.hpp ^
     boost/serialization/unique_ptr.hpp ^
     boost/serialization/weak_ptr.hpp ^
+    boost/iostreams/ ^
     --boost="%1" .
