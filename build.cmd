@@ -14,6 +14,7 @@ bcp ^
     boost/smart_ptr/intrusive_ptr.hpp ^
     boost/system/error_code.hpp ^
     boost/system/system_error.hpp ^
+    boost/stacktrace.hpp ^
     boost/variant/ ^
     boost/archive/binary_iarchive.hpp ^
     boost/archive/binary_oarchive.hpp ^
